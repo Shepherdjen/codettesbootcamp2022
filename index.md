@@ -58,21 +58,13 @@ In this session we went over how far we were with the webchat application and ha
 
 I tried putting the js code and my styling (css)in a different file but I still kept getting the same error
 I finally discovered why I could not send messages. I made a few mistakes in the div class for the button. 
-The code is supposed to look like this:
-<div class="text" class="chatbox" id="chatlog">
-      <input class="input"type="text" id="chatInput" id="sendMesageButton>
-        <button class="sendbutton">
-             <button onclick="sendMessageButton(getElementById('chatInput').value);getElementById('chatInput').value='';">Send</button>
-			 </div> 
-															 
-But i had this instead:
-															 
+
+The code is supposed to look like this:															 
 <div class="text" class="chatbox id=chatlog>
       <input class="inpt"type="text id="chatInput" id="sendMesageButton>
         <button class=sendbutton">
              <button onclick="sendMessageButton(getElementById('chatInput').value);getElementById('chatInput').value='';">Send</button>
 			 </div> 
-
 So after I finally got the code to work , I added more. I created another app.js file and added the new javascript there. With this javascript I was able to see who entered the chat and see the messages sent in the chat.
 
 
