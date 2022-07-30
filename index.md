@@ -1,5 +1,5 @@
-##10.2 Setup Dev Environment for ESP32 S2
-Day 1 one was an online session. The teacher went over the slides and instructed the students to set up our  dev environment for the esp32 s2 using the instructions from slide 13.
+### 10.2 Setup Dev Environment for ESP32 S2
+the first session was an online session. The teacher went over the slides and instructed the students to set up our  dev environment for the esp32 s2 using the instructions from slide 13.
 
 
 
@@ -8,7 +8,7 @@ After setting up the environment everyone had to test out the environment using 
 
 Note; i was unsuccessful in setting up my esp32 s2 environment ,so i could not do the test on day 1 of week 1.
 
-Day 2 In lab session
+The second session was and in lab session
 With the help of one of my classmates I was able to set up my environment and do the test.
 The first test was to create a Web Server (with websockets) using esp32 s2 in arduino.
 How:
@@ -44,7 +44,7 @@ Addpicture of mockup
 
 
 
- ###webchat
+### webchat
 In the lab session we were instructed to continue working on our web chat application. I managed to create a web interface but I could not connect to the mqtt server. 
 After some time everyone changed because test.mosquitto.org was giving problems.
 I still was able to connect though and decided to skip that and work on the styling for my webchat.
@@ -53,8 +53,7 @@ This what the chat looked like:
 
 This was styled using the css tutorial on w3schools
 
-###
-W3 continuing with webchat
+### W3 continuing with webchat
 In this session we went over how far we were with the webchat application and had to share our scenes. I still was able to connect to the mqtt server now but was not able to send message. I kept getting an error in line 1 of my html.
 
 I tried putting the js code and my styling (css)in a different file but I still kept getting the same error
@@ -65,7 +64,9 @@ The code is supposed to look like this:
         <button class="sendbutton">
              <button onclick="sendMessageButton(getElementById('chatInput').value);getElementById('chatInput').value='';">Send</button>
 			 </div> 
+															 
 But i had this instead:
+															 
 <div class="text" class="chatbox id=chatlog>
       <input class="inpt"type="text id="chatInput" id="sendMesageButton>
         <button class=sendbutton">
@@ -78,6 +79,17 @@ So after I finally got the code to work , I added more. I created another app.js
 
 I also set up my Node Js environment. I had to do this twice because I didn't wait for everything to download the first time and shut down my terminal window.
 So not everything was installed.
+															 
+### Mongodb
+															 
+### github
+we were shown how to use github to document our work.
+### 3D printing
+we were instructed to dowload cura 5.0.0. . in th online session we were shown how to use it.															 
+															 
+															 
+															 
+															 
 
 
 
