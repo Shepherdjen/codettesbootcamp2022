@@ -1,4 +1,5 @@
-### 10.2 Setup Dev Environment for ESP32 S2
+# chat
+## 10.2 Setup Dev Environment for ESP32 S2
 the first session was an online session. The teacher went over the slides and instructed the students to set up our  dev environment for the esp32 s2 using the instructions from slide 13.
 
 
@@ -31,7 +32,7 @@ Step 5 connect the esp32 s2 , upload the code and open the html file.
  Results
 
 
-### MQTt and html
+## MQTt and html
 In this session we were introduced to mqtt lens ( A chrome plugin). The class was instructed to download the Mqtt extension and then connect to the mqttwebserver test.mosquitto.org.
 After the lesson i used the link provided in the slide and went on w3school.com to learn more about HTML, Css and javascript.(i haven't learned everything yet)
 We were also instructed to create a mockup of the chataplication we wanted to create and to create an html file with div and wire up the js code.
@@ -44,7 +45,7 @@ Addpicture of mockup
 
 
 
-### webchat
+## webchat
 In the lab session we were instructed to continue working on our web chat application. I managed to create a web interface but I could not connect to the mqtt server. 
 After some time everyone changed because test.mosquitto.org was giving problems.
 I still was able to connect though and decided to skip that and work on the styling for my webchat.
@@ -53,7 +54,7 @@ This what the chat looked like:
 
 This was styled using the css tutorial on w3schools
 
-### W3 continuing with webchat
+## W3 continuing with webchat
 In this session we went over how far we were with the webchat application and had to share our scenes. I still was able to connect to the mqtt server now but was not able to send message. I kept getting an error in line 1 of my html.
 
 I tried putting the js code and my styling (css)in a different file but I still kept getting the same error
@@ -72,18 +73,19 @@ So after I finally got the code to work , I added more. I created another app.js
 I also set up my Node Js environment. I had to do this twice because I didn't wait for everything to download the first time and shut down my terminal window.
 So not everything was installed.
 															 
-### Mongodb
+## Mongodb
 															 
-### github
+## github
 we were shown how to use github to document our work.
-### 3D printing
+## 3D printing
 we were instructed to dowload cura 5.0.0. . in th online session we were shown how to use it.															 
 															 
 															 
-### canvanizer
+## canvanizer
 i created a account on canvanizer to creat a canvas.
 
 # Business model canvas
+
 ## 3.1 What is a business model canvas?
 A business model canvas(a one sheet business plan) is a visual representation of a business model, highlighting all key strategic factors. So a business model canvas basically gives you an overview of the company's workings, customers, revenue streams etc.
 Business model canvases are most used by start-ups but it is also used to document existing company’s. 
