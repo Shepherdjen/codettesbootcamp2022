@@ -83,7 +83,7 @@ we were instructed to dowload cura 5.0.0. . in th online session we were shown h
 ### canvanizer
 i created a account on canvanizer to creat a canvas.
 
-	# Business model canvas
+# Business model canvas
 ## 3.1 What is a business model canvas?
 A business model canvas(a one sheet business plan) is a visual representation of a business model, highlighting all key strategic factors. So a business model canvas basically gives you an overview of the company's workings, customers, revenue streams etc.
 Business model canvases are most used by start-ups but it is also used to document existing company’s. 
