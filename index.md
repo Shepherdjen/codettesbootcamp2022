@@ -95,12 +95,19 @@ Before making a business model canvas you have to have a business plan (Plan for
 When making a Business model canvas you have 9 essential building blocks.
 Those building blocks are :
 Key partners: who will be your key partner/suppliers? Which key resources do they provide?
+
 Key activities :what are the key processes and task we need to create our value proposition?
+
 Key resources: what key resources do our key activities require?
+
 Value proposition: Which of our customers problems are we helping to solve?Value proposition look like?
+
 Customer relationships:what type of relationship do you want with customers?Which fits best with each segments?
+
 Channels:To which channels do each of our segments want to be reached?Which ones are most cost efficient?
+
 Customer segments :For whom are we creating value?Who are the most important customers.?
+
 cost structure: I mean and elements of operational expense? (Floating variable cost,inventory ,WIP and capital assets).
 Revenue streams: From which channels and segments? how much does each contribute to overall revenue?
 
